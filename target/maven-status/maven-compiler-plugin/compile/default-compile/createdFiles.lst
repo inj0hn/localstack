@@ -1,5 +1,0 @@
-com/inj0hn/localstack/beans/BeanFactory.class
-META-INF/services/com.inj0hn.localstack.beans.S3Factory
-com/inj0hn/localstack/App.class
-com/inj0hn/localstack/beans/S3Factory.class
-com/inj0hn/localstack/beans/LocalStackS3Factory.class
